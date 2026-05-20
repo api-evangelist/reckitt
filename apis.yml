@@ -27,6 +27,10 @@ modified: '2026-05-09'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/reckitt
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/reckitt
   - type: Website
     url: https://www.reckitt.com/
 maintainers:
