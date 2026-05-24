@@ -33,6 +33,8 @@ common:
     url: https://www.linkedin.com/company/reckitt
   - type: Website
     url: https://www.reckitt.com/
+  - type: LLMsTxt
+    url: https://www.reckitt.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
