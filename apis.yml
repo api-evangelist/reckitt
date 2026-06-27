@@ -33,7 +33,7 @@ common:
     url: https://www.linkedin.com/company/reckitt
   - type: Website
     url: https://www.reckitt.com/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.reckitt.com/llms.txt
 maintainers:
   - FN: Kin Lane
