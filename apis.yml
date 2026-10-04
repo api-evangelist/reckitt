@@ -41,6 +41,14 @@ tags:
   - Household Products
   - Health & Hygiene
   - Nutrition
+  - Consumer Packaged Goods
+  - FTSE 100
+tags_raw:
+  - Consumer Products
+  - Personal Care
+  - Household Products
+  - Health & Hygiene
+  - Nutrition
   - CPG
   - FTSE 100
 url: https://raw.githubusercontent.com/api-evangelist/reckitt/refs/heads/main/apis.yml
